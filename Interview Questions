@@ -1,0 +1,24 @@
+Interview Questions 
+1. What is a VPN?
+A Virtual Private Network that encrypts your internet connection and hides your IP address.
+
+2. How does a VPN protect privacy?
+It masks your identity by routing traffic through an encrypted tunnel and remote server.
+
+3. Difference between VPN and Proxy?
+Proxy hides IP but has no encryption; VPN hides IP with encryption.
+
+4. What is encryption in VPN?
+Scrambling data so only authorized systems can read it (e.g., AES-256).
+
+5. Can VPN guarantee complete anonymity?
+No. It improves privacy but doesn’t provide 100% anonymity.
+
+6. What protocols do VPNs use?
+OpenVPN, WireGuard, IKEv2/IPSec.
+
+7. What are some VPN limitations?
+Speed drop, provider trust issues, limited free servers, not protecting against malware.
+
+8. How does VPN affect network speed?
+Encryption + routing can reduce speed slightly, depending on server distance.
